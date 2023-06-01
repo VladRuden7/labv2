@@ -1,0 +1,17 @@
+
+†
+java:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“Ô ú
+2
+java:S1643"Use a StringBuilder instead.(¡òœ“
+S
+java:S2589C"8Remove this expression which always evaluates to "false"(·¡Ïüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê†êÜüÿÿÿÿ
+<
+java:S1168 "&Return an empty array instead of null.(±†é
+?
+java:S1197%"*Move the array designators [] to the type.(ÈûB
+<
+java:S1168&"&Return an empty array instead of null.(Üãš
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(’²ÿ­ûÿÿÿÿ
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(¨éâL
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ôäšûÿÿÿÿ8÷ì­šş0
